@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Komal Verma
 
-🎓 MCA (ML & AI) Student  
 💡 Aspiring Data Analyst | Machine Learning Enthusiast  
 📊 Passionate about Data Analysis & Building Data-Driven Projects  
 
